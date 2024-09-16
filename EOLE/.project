@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>EOLE</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.polarsys.capella.project.nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>istockphoto-482110960-612x612.jpg</name>
+			<type>1</type>
+			<location>/home/pmeilan/capella70/capella/workspace/istockphoto-482110960-612x612.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
